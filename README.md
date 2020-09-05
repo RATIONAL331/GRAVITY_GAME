@@ -10,4 +10,4 @@
 * JAVASCRIPT 라이브러리 Box2D.js를 활용하여 개발
 
 # 활동 사진
-!["중간 발표"](http://www.gstatic.com/webp/gallery/5.jpg)
+![중간 발표](https://github.com/RATIONAL331/GRAVITY_GAME/blob/master/activity/IMG_20161205_130004.jpg)
