@@ -11,3 +11,5 @@
 
 # 활동 사진
 ![중간 발표](https://github.com/RATIONAL331/GRAVITY_GAME/blob/master/activity/IMG_20161205_130004.jpg)
+![발표 중](https://github.com/RATIONAL331/GRAVITY_GAME/blob/master/activity/IMG_20161222_152017_HDR.jpg)
+![최종 발표](https://github.com/RATIONAL331/GRAVITY_GAME/blob/master/activity/IMG_20161222_162607.jpg)
